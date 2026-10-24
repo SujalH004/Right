@@ -2,7 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
-jai/
+jai.py
 
 # C extensions
 *.so
